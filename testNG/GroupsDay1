@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <groups>
+  <run>
+  <execlude name="G1">
+  </exclude>>
+   </run>
+   </groups>
+    <classes>
+      <class name="GroupsDay1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
